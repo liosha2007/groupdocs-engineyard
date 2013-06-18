@@ -1,14 +1,14 @@
 GroupDocs EngineYard samples
 ====================
 
-### Should be installed
+# Should be installed
 * [NodeJS](http://nodejs.org/)
 
-### How to run project locally
-# production:
+# How to run project locally
+### production:
 `node app`
 
-# development:
+### development:
 `node app -c dev`
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
